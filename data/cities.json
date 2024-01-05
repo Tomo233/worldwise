@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Almaluez",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-27T10:46:27.756Z",
+      "notes": "",
+      "position": {
+        "lat": "41.32732632036624",
+        "lng": "-2.2412109375000004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Sinntal",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2023-12-27T10:46:31.995Z",
+      "notes": "",
+      "position": {
+        "lat": "50.24720490139267",
+        "lng": "9.645996093750002"
+      },
+      "id": 2
+    }
+  ]
+}
